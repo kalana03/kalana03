@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;CSE+Undergraduate;Embedded+Systems+Explorer;Systems+Thinker" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://kalanaa.me"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=000&style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kalana-abeysundara/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@knbabeysundara2003.it"><img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -43,10 +49,4 @@ Hey there! I'm a **Full Stack Developer** who loves turning coffee into code ☕
     <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,astro,nodejs,fastapi,postgres,docker,tailwind,nextjs,laravel&perline=15" />
   </a>
 </p>
-<br>
 
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalana03&bg_color=0d1117&color=c9d1d9&line=00b4ff&point=00b4ff&area=true&area_color=00b4ff&title_color=00b4ff&hide_border=true)
-
-</div>
