@@ -46,7 +46,7 @@ Hey there! I'm a **Full Stack Developer** who loves turning coffee into code ☕
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,astro,nodejs,fastapi,postgres,docker,tailwind,nextjs,laravel&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,astro,vue,nodejs,fastapi,postgres,docker,tailwind,nextjs,laravel,go&perline=15" />
   </a>
 </p>
 
